@@ -12,6 +12,7 @@
 		B76154AF1EB0742A00B95855 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76154AD1EB0742A00B95855 /* Main.storyboard */; };
 		B76154B11EB0742A00B95855 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76154B01EB0742A00B95855 /* Assets.xcassets */; };
 		B76154B41EB0742A00B95855 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76154B21EB0742A00B95855 /* LaunchScreen.storyboard */; };
+		B76154BC1EB0750D00B95855 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76154BB1EB0750D00B95855 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B76154B01EB0742A00B95855 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B76154B31EB0742A00B95855 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B76154B51EB0742A00B95855 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B76154BB1EB0750D00B95855 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B76154A91EB0742A00B95855 /* AppDelegate.swift */,
 				B76154AB1EB0742A00B95855 /* ViewController.swift */,
 				B76154AD1EB0742A00B95855 /* Main.storyboard */,
+				B76154BB1EB0750D00B95855 /* MyCollectionViewCell.swift */,
 				B76154B01EB0742A00B95855 /* Assets.xcassets */,
 				B76154B21EB0742A00B95855 /* LaunchScreen.storyboard */,
 				B76154B51EB0742A00B95855 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				B76154AC1EB0742A00B95855 /* ViewController.swift in Sources */,
 				B76154AA1EB0742A00B95855 /* AppDelegate.swift in Sources */,
+				B76154BC1EB0750D00B95855 /* MyCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
